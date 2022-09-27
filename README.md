@@ -16,7 +16,9 @@ Serie temporal sobre senadores em exercicio: Uma analise da seria temporal de ga
 
 Serie temporal despesas Covid : Uma análise sobre os pedidos de reembolso dos senadores durante o periodo de pandemia
 
+Arquivos:
 
+df_reembolso_senado_atual.csv 
 
 Fonte: https://www12.senado.leg.br/transparencia
 ---
