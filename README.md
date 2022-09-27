@@ -7,7 +7,8 @@ Trata-se de um projeto individual de investigação de gastos públicos de senad
 
 O que tem dentro:
 
-Sobre os senadores atuais : Uma análise sobre o perfil dos senadores atuais, como tempo de mandato, sexo, idade
+Sobre os senadores em mandato : Uma análise sobre o perfil dos senadores atuais, como tempo de mandato, sexo, idade [https://github.com/Siri2191/Projeto-Senadores/blob/main/Sobre_os_Senadores_em_mandato.ipynb]
+
 
 Sobre as despesas dos senadores atuais:  Uma análise sobre os pedidos de rembolso feito pelos senadores en exerciios até 2022
 
